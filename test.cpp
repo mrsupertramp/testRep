@@ -1,3 +1,3 @@
-neues feature, nicht fertig
+neues feature, fertig
 
 testprogramm
